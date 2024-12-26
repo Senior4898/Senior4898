@@ -1,0 +1,19 @@
+<!---
+- 👋 Hi, I’m @Senior4898
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
+
+L-1
+1. specification for the management protocol
+2. module for parsing
+3. testing command parsing module the UnitTest lib
+
+<!---
+Senior4898/Senior4898 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
